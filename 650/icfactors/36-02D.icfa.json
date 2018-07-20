@@ -1,38 +1,80 @@
 {
     "AX": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
         "value": 1.0
-    }, 
+    },
     "CDD": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
-        "value": 1.0
-    }, 
+        "error": 0.002726461900337814,
+        "fit": "Bracketing Interpolate",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4409",
+                "uuid": "91f7b185-a0e2-403f-b249-e1b22d1ac9cf"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4410",
+                "uuid": "298667de-afc8-4337-9861-ae6190ef8683"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4411",
+                "uuid": "bd322d7d-ce2b-4f2a-afc3-38c3cf2a5caa"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4412",
+                "uuid": "1dd32450-ee13-4ea0-9df9-f3be70b4054b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4413",
+                "uuid": "4052ee2e-a583-46a2-bdef-f5a4f9b79a40"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4414",
+                "uuid": "612ab3db-2993-4cb2-95d4-bc45f1d3c16a"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4415",
+                "uuid": "642adb43-71bf-42f9-afa2-319b651f605e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-4416",
+                "uuid": "ceb90961-6747-4050-81e7-7aad612810b9"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9988045037463429
+    },
     "H1": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
         "value": 1.0
-    }, 
+    },
     "H2": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
         "value": 1.0
-    }, 
+    },
     "L1": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
         "value": 1.0
-    }, 
+    },
     "L2": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
         "value": 1.0
     }
 }
